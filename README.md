@@ -6,3 +6,9 @@ Este es un repositorio de ejemplo 2 para la clase de Fundamentos de Programació
 2. Ariana Rodriguez
 3. Carlos Mansilla
 4. Kathy Bolivar
+
+## Marjos de los alumnos 
+1. Economia
+2. Economia
+3. Ciencia Politica y Gobierno
+4. Medicina
